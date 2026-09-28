@@ -1,239 +1,47 @@
-# 👋 Hi, I'm Baptiste Augros
+# 💫 About Me:
+# 👋 Hi, I'm Baptiste Augros<br><br> 
+## Data Science · AI · Modelling · R&D<br><br>🎓 **M2 Sport, Health & Artificial Intelligence (2SIA)** — University of Montpellier<br>🔬 **Data · Machine Learning · Multimodal Data · Human Movement · Digital Health**<br>📍 France<br><br>> Turning complex data into **robust analyses, meaningful models and real-world solutions.**<br><br>---<br><br>
+## 🧠 About Me<br><br>I'm a **Data & AI-oriented Master's student** with a multidisciplinary background combining **data science, artificial intelligence, experimental research, sport science and health**.<br><br>My work focuses on extracting meaningful information from complex datasets — including **physiological, biomechanical, temporal and sensor data** — and translating it into interpretable results and practical applications.<br><br>I'm particularly interested in multidisciplinary **R&D environments**, where data science and engineering meet scientific and real-world challenges.<br><br>
+### What drives me<br><br>* 📊 Understanding and modelling complex data<br>* 🤖 Developing and applying Machine Learning methods<br>* 🔬 Designing experiments and building reproducible analyses<br>* 📈 Working with time-series, signals and multimodal data<br>* ⚙️ Connecting scientific models with practical applications<br>* 🏃 Exploring the intersection of technology, sport and human movement<br>* 🏥 Developing data-driven solutions for health and rehabilitation<br><br>---<br><br>
+## 🛠️ Tech Stack<br><br>
+### Programming & Data<br><br><p><br>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><br>  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/><br>  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/><br></p><br><br>
+### Python Ecosystem<br><br>`NumPy` · `Pandas` · `SciPy` · `Statsmodels` · `Matplotlib`<br><br>
+### R Ecosystem<br><br>`tidyverse` · `ggplot2` · `Shiny` · `R Markdown`<br><br>
+### Machine Learning & Modelling<br><br>`Scikit-learn` · `Random Forest` · `SVM` · `XGBoost` · `KNN`<br>`Classification` · `Prediction` · `Clustering` · `Feature Engineering`<br>`Hyperparameter Optimisation` · `Multivariate Analysis`<br><br>
+### Scientific Computing<br><br>`Time Series` · `Signal Processing` · `Experimental Design`<br>`Dynamic Systems` · `Optimisation` · `Simulation` · `Graph Analysis`<br><br>
+### Tools<br><br><p><br>  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br>  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/><br></p><br><br>---<br><br>
+# 🔬 Selected Work<br><br>
+## 🏃 DEPOXY — Energy Expenditure During Locomotion<br><br>**Research & R&D project — EuroMov / Digital Health in Motion × Decathlon SportsLab**<br><br>Research project investigating physiological responses and peripheral energy expenditure during locomotion.<br><br>
+### Data & methods<br><br>* Physiological and biomechanical measurements<br>* Near-infrared spectroscopy (**NIRS**)<br>* Indirect calorimetry<br>* Force plate data<br>* Experimental design<br>* Data quality control<br>* Steady-state detection<br>* Statistical analysis<br>* Multimodal data interpretation<br><br>
+**Stack:** `Python` · `R` · `Statistics` · `Signal Processing`<br><br>The project involved transforming raw experimental measurements into reproducible analytical workflows and interpretable scientific results.<br><br>---<br><br>
+## ⚽ Football Performance Data<br><br>Exploration and analysis of football performance data using **GPS-derived metrics and performance indicators**.<br><br>
+### Focus<br><br>* Data cleaning and structuring<br>* KPI construction<br>* Exploratory Data Analysis<br>* Player profiling<br>* Clustering<br>* Performance interpretation<br><br>**Stack:** `Python` · `SQL` · `DuckDB` · `Pandas`<br><br>---<br><br>
+## 🎾 AI × Human Movement<br><br>Exploring the use of **Artificial Intelligence and data-driven methods for analysing human movement and sports performance**.<br><br>Areas of interest include:<br><br>* 🎥 Computer Vision<br>* 📡 Sensor & wearable data<br>* 📈 Athlete monitoring<br>* 🧠 Movement classification<br>* 🔄 Biofeedback systems<br>* ⚽ Technical & tactical analysis<br>* 🏥 Rehabilitation technologies<br><br>---<br><br>
+# 📚 Academic Background<br><br>
+### 🎓 Master 2 — Sport, Health & Artificial Intelligence (SHAI)<br><br>**University of Montpellier**<br><br>Current areas of study include:<br><br>`Machine Learning` · `Graph Analysis` · `Reinforcement Learning`<br>`Optimisation` · `Dynamic Systems` · `Human Movement Control`<br>`Rehabilitation` · `Open Science` · `Open Data`<br><br>### 🎓 Licence — Sport Science<br><br>**STAPS — Training & Performance**<br><br>Background combining sport science, training methodology, physiology and practical experience in the field.<br><br>---<br><br>
+# 🎯 Research Interests<br><br>I'm particularly interested in projects at the intersection of:<br><br>```text<br>             DATA<br>              │<br>              ▼<br>        ┌─────────────┐<br>        │   AI / ML   │<br>        └──────┬──────┘<br>               │<br>       ┌───────┴────────┐<br>       ▼                ▼<br>   MOVEMENT           HEALTH<br>       │                │<br>       └───────┬────────┘<br>               ▼<br>              R&D<br>```<br><br>
+### Key areas<br><br>🔹 **Data Science & Statistical Modelling**<br>🔹 **Machine Learning & Artificial Intelligence**<br>🔹 **Time-Series & Signal Processing**<br>🔹 **Multimodal Data Analysis**<br>🔹 **Biomechanics & Human Movement**<br>🔹 **Sports Analytics**<br>🔹 **Digital Health & Rehabilitation**<br>🔹 **Scientific R&D**<br><br>---<br><br>
+# 🚀 What I'm Looking For<br><br>I'm interested in **R&D, Data Science and AI projects** where I can combine quantitative skills with scientific understanding.<br><br>
+### Areas of interest<br><br>`Data Scientist` · `Data Analyst` · `ML / AI`<br>`Research Engineer` · `R&D` · `Digital Health`<br>`Sports Analytics` · `Biomechanics` · `Human Movement Technology`<br><br>I'm particularly motivated by projects involving **real-world data, experimentation, modelling and technological innovation**.<br><br>---<br><br>
+# 📈 GitHub Activity<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Baptoudu36&show_icons=true&hide_border=true&rank_icon=github" height="170"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baptoudu36&layout=compact&hide_border=true" height="170"/><br></p><br><br>---<br><br>
+# ⚽ Beyond Code<br><br>Sport has always been an important part of my background.<br><br>⚽ **Football**<br>🎾 **Tennis**<br>🏓 **Padel**<br>🏋️ **Strength and Weightlifting Trainings**<br><br>I'm also passionate about **gastronomy, travel and cinema**.<br><br>This sporting background naturally feeds my interest in **performance data, human movement and sports technology**.<br><br>---<br><br>
+## 🤝 Let's Connect<br><br>I'm always interested in discussing **Data Science, AI, R&D, sports technology, digital health and human movement**.<br><br><p><br>  <a href="https://github.com/Baptoudu36"><br>    <img src="https://img.shields.io/badge/GitHub-Baptoudu36-181717?style=for-the-badge&logo=github"/><br>  </a><br></p><br><br>---<br><br><p align="center"><br>  <i>Data · Science · AI · Movement · Innovation</i><br></p><br>
 
-### Data Science · AI · Modelling · R&D
 
-🎓 **M2 Sport, Health & Artificial Intelligence (2SIA)** — University of Montpellier
-🔬 **Data · Machine Learning · Multimodal Data · Human Movement · Digital Health**
-📍 France
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Baptiste Augros) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bapotudu36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Baptiste Augros) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baptiste.augros@etu.umontpellier.fr) 
 
-> Turning complex data into **robust analyses, meaningful models and real-world solutions.**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Baptoudu36&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Baptoudu36&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Baptoudu36&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🧠 About Me
-
-I'm a **Data & AI-oriented Master's student** with a multidisciplinary background combining **data science, artificial intelligence, experimental research, sport science and health**.
-
-My work focuses on extracting meaningful information from complex datasets — including **physiological, biomechanical, temporal and sensor data** — and translating it into interpretable results and practical applications.
-
-I'm particularly interested in multidisciplinary **R&D environments**, where data science and engineering meet scientific and real-world challenges.
-
-### What drives me
-
-* 📊 Understanding and modelling complex data
-* 🤖 Developing and applying Machine Learning methods
-* 🔬 Designing experiments and building reproducible analyses
-* 📈 Working with time-series, signals and multimodal data
-* ⚙️ Connecting scientific models with practical applications
-* 🏃 Exploring the intersection of technology, sport and human movement
-* 🏥 Developing data-driven solutions for health and rehabilitation
-
----
-
-## 🛠️ Tech Stack
-
-### Programming & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
-</p>
-
-### Python Ecosystem
-
-`NumPy` · `Pandas` · `SciPy` · `Statsmodels` · `Matplotlib`
-
-### R Ecosystem
-
-`tidyverse` · `ggplot2` · `Shiny` · `R Markdown`
-
-### Machine Learning & Modelling
-
-`Scikit-learn` · `Random Forest` · `SVM` · `XGBoost` · `KNN`
-`Classification` · `Prediction` · `Clustering` · `Feature Engineering`
-`Hyperparameter Optimisation` · `Multivariate Analysis`
-
-### Scientific Computing
-
-`Time Series` · `Signal Processing` · `Experimental Design`
-`Dynamic Systems` · `Optimisation` · `Simulation` · `Graph Analysis`
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Baptoudu36&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Baptoudu36&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🔬 Selected Work
-
-## 🏃 DEPOXY — Energy Expenditure During Locomotion
-
-**Research & R&D project — EuroMov / Digital Health in Motion × Decathlon SportsLab**
-
-Research project investigating physiological responses and peripheral energy expenditure during locomotion.
-
-### Data & methods
-
-* Physiological and biomechanical measurements
-* Near-infrared spectroscopy (**NIRS**)
-* Indirect calorimetry
-* Force plate data
-* Experimental design
-* Data quality control
-* Steady-state detection
-* Statistical analysis
-* Multimodal data interpretation
-
-**Stack:** `Python` · `R` · `Statistics` · `Signal Processing`
-
-The project involved transforming raw experimental measurements into reproducible analytical workflows and interpretable scientific results.
-
----
-
-## ⚽ Football Performance Data
-
-Exploration and analysis of football performance data using **GPS-derived metrics and performance indicators**.
-
-### Focus
-
-* Data cleaning and structuring
-* KPI construction
-* Exploratory Data Analysis
-* Player profiling
-* Clustering
-* Performance interpretation
-
-**Stack:** `Python` · `SQL` · `DuckDB` · `Pandas`
-
----
-
-## 🎾 AI × Human Movement
-
-Exploring the use of **Artificial Intelligence and data-driven methods for analysing human movement and sports performance**.
-
-Areas of interest include:
-
-* 🎥 Computer Vision
-* 📡 Sensor & wearable data
-* 📈 Athlete monitoring
-* 🧠 Movement classification
-* 🔄 Biofeedback systems
-* ⚽ Technical & tactical analysis
-* 🏥 Rehabilitation technologies
-
----
-
-# 📚 Academic Background
-
-### 🎓 Master 2 — Sport, Health & Artificial Intelligence (2SIA)
-
-**University of Montpellier**
-
-Current areas of study include:
-
-`Machine Learning` · `Graph Analysis` · `Reinforcement Learning`
-`Optimisation` · `Dynamic Systems` · `Human Movement Control`
-`Rehabilitation` · `Open Science` · `Open Data`
-
-### 🎓 Licence — Sport Science
-
-**STAPS — Training & Performance**
-
-Background combining sport science, training methodology, physiology and practical experience in the field.
-
----
-
-# 🎯 Research Interests
-
-I'm particularly interested in projects at the intersection of:
-
-```text
-             DATA
-              │
-              ▼
-        ┌─────────────┐
-        │   AI / ML   │
-        └──────┬──────┘
-               │
-       ┌───────┴────────┐
-       ▼                ▼
-   MOVEMENT           HEALTH
-       │                │
-       └───────┬────────┘
-               ▼
-              R&D
-```
-
-### Key areas
-
-🔹 **Data Science & Statistical Modelling**
-🔹 **Machine Learning & Artificial Intelligence**
-🔹 **Time-Series & Signal Processing**
-🔹 **Multimodal Data Analysis**
-🔹 **Biomechanics & Human Movement**
-🔹 **Sports Analytics**
-🔹 **Digital Health & Rehabilitation**
-🔹 **Scientific R&D**
-
----
-
-# 🚀 What I'm Looking For
-
-I'm interested in **R&D, Data Science and AI projects** where I can combine quantitative skills with scientific understanding.
-
-### Areas of interest
-
-`Data Scientist` · `Data Analyst` · `ML / AI`
-`Research Engineer` · `R&D` · `Digital Health`
-`Sports Analytics` · `Biomechanics` · `Human Movement Technology`
-
-I'm particularly motivated by projects involving **real-world data, experimentation, modelling and technological innovation**.
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baptoudu36&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baptoudu36&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
-# ⚽ Beyond Code
-
-Sport has always been an important part of my background.
-
-⚽ **Football**
-🎾 **Tennis**
-🏓 **Padel**
-🏋️ **Strength Training**
-
-I'm also passionate about **gastronomy, travel and cinema**.
-
-This sporting background naturally feeds my interest in **performance data, human movement and sports technology**.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing **Data Science, AI, R&D, sports technology, digital health and human movement**.
-
-<p>
-  <a href="https://github.com/Baptoudu36">
-    <img src="https://img.shields.io/badge/GitHub-Baptoudu36-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Data · Science · AI · Movement · Innovation</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
