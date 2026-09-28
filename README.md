@@ -1,6 +1,7 @@
 # 💫 About Me:
 # 👋 Hi, I'm Baptiste Augros<br><br> 
-## Data Science · AI · Modelling · R&D<br><br>🎓 **M2 Sport, Health & Artificial Intelligence (2SIA)** — University of Montpellier<br>🔬 **Data · Machine Learning · Multimodal Data · Human Movement · Digital Health**<br>📍 France<br><br>> Turning complex data into **robust analyses, meaningful models and real-world solutions.**<br><br>---<br><br>
+## Data Science · AI · Modelling · R&D<br><br>🎓 **M2 Sport, Health & Artificial Intelligence (2SIA)** — University of Montpellier<br>🔬 **Data · Machine Learning · Multimodal Data · Human Movement · Digital Health**<br>📍 France<br><br>
+## My professional goals ? Turning complex data into **robust analyses, meaningful models and real-world solutions.** <br><br>---<br><br> ##
 ## 🧠 About Me<br><br>I'm a **Data & AI-oriented Master's student** with a multidisciplinary background combining **data science, artificial intelligence, experimental research, sport science and health**.<br><br>My work focuses on extracting meaningful information from complex datasets — including **physiological, biomechanical, temporal and sensor data** — and translating it into interpretable results and practical applications.<br><br>I'm particularly interested in multidisciplinary **R&D environments**, where data science and engineering meet scientific and real-world challenges.<br><br>
 ### What drives me<br><br>* 📊 Understanding and modelling complex data<br>* 🤖 Developing and applying Machine Learning methods<br>* 🔬 Designing experiments and building reproducible analyses<br>* 📈 Working with time-series, signals and multimodal data<br>* ⚙️ Connecting scientific models with practical applications<br>* 🏃 Exploring the intersection of technology, sport and human movement<br>* 🏥 Developing data-driven solutions for health and rehabilitation<br><br>---<br><br>
 ## 🛠️ Tech Stack<br><br>
@@ -24,7 +25,6 @@
 ### Key areas<br><br>🔹 **Data Science & Statistical Modelling**<br>🔹 **Machine Learning & Artificial Intelligence**<br>🔹 **Time-Series & Signal Processing**<br>🔹 **Multimodal Data Analysis**<br>🔹 **Biomechanics & Human Movement**<br>🔹 **Sports Analytics**<br>🔹 **Digital Health & Rehabilitation**<br>🔹 **Scientific R&D**<br><br>---<br><br>
 # 🚀 What I'm Looking For<br><br>I'm interested in **R&D, Data Science and AI projects** where I can combine quantitative skills with scientific understanding.<br><br>
 ### Areas of interest<br><br>`Data Scientist` · `Data Analyst` · `ML / AI`<br>`Research Engineer` · `R&D` · `Digital Health`<br>`Sports Analytics` · `Biomechanics` · `Human Movement Technology`<br><br>I'm particularly motivated by projects involving **real-world data, experimentation, modelling and technological innovation**.<br><br>---<br><br>
-# 📈 GitHub Activity<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Baptoudu36&show_icons=true&hide_border=true&rank_icon=github" height="170"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baptoudu36&layout=compact&hide_border=true" height="170"/><br></p><br><br>---<br><br>
 # ⚽ Beyond Code<br><br>Sport has always been an important part of my background.<br><br>⚽ **Football**<br>🎾 **Tennis**<br>🏓 **Padel**<br>🏋️ **Strength and Weightlifting Trainings**<br><br>I'm also passionate about **gastronomy, travel and cinema**.<br><br>This sporting background naturally feeds my interest in **performance data, human movement and sports technology**.<br><br>---<br><br>
 ## 🤝 Let's Connect<br><br>I'm always interested in discussing **Data Science, AI, R&D, sports technology, digital health and human movement**.<br><br><p><br>  <a href="https://github.com/Baptoudu36"><br>    <img src="https://img.shields.io/badge/GitHub-Baptoudu36-181717?style=for-the-badge&logo=github"/><br>  </a><br></p><br><br>---<br><br><p align="center"><br>  <i>Data · Science · AI · Movement · Innovation</i><br></p><br>
 
@@ -38,11 +38,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=Baptoudu36&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Baptoudu36&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Baptoudu36&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Baptoudu36&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Baptoudu36&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
